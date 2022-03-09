@@ -7,7 +7,7 @@
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
-
+* [Note](#note)
 
 ## General Information
 - A python program to study the risk behaviour of the loan application for the provide loan data set.
@@ -53,6 +53,9 @@
 Give credit here.
 - This project was the case study from the Upgrad. We are thankful to the Upgrad & IIIT, Bangalore for providing the necessary knowledge & support.
 - Other references is taken form the various internet source.
+
+## Note
+- Due to large size of Jupyter notebook, it is zipped & uploaded.
 
 
 ## Contact
